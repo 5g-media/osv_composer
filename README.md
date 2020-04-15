@@ -63,3 +63,6 @@ see [doc](https://production.eng.it/gitlab/5G-MEDIA/osv_composer/blob/master/run
 ### Inspired by [osv_builder](https://github.com/wkozaczuk/docker_osv_builder) and [osv_runner](https://github.com/wkozaczuk/docker_osv_runner) by [Waldemar Kozaczuk](wkozaczuk)
 
 This container points to a specific OSv release and adds the patches necessary to make the native MPM compile without using the master branch
+
+### Acknowledgements
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 761699. The dissemination of results herein reflects only the author’s view and the European Commission is not responsible for any use that may be made of the information it contains.
